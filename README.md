@@ -1,1 +1,1 @@
-# Synthetic  image datasets in the paper.
+# Synthetic and image datasets in the paper.
